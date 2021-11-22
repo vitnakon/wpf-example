@@ -1,0 +1,17 @@
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\MVVM_Example.exe
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\MVVM_Example.pdb
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\MVVM_Example.exe.config
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\UnitTestProject\obj\Debug\UnitTestProject.pdb

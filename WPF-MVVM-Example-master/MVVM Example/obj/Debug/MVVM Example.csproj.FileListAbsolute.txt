@@ -1,0 +1,59 @@
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.exe.config
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.exe
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.pdb
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.AssemblyReference.cache
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\View\MainWindow.g.cs
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\App.g.cs
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example_MarkupCompile.cache
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example_MarkupCompile.lref
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\View\MainWindow.baml
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.g.resources
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.cache
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.CoreCompileInputs.cache
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.CopyComplete
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.exe
+C:\Users\vitna\Downloads\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.pdb
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.exe.config
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.exe
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.pdb
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\System.Windows.Interactivity.dll
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\bin\Debug\System.Windows.Interactivity.xml
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.AssemblyReference.cache
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\View\MainWindow.g.cs
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\App.g.cs
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example_MarkupCompile.cache
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example_MarkupCompile.lref
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\View\MainWindow.baml
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.g.resources
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.cache
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.CoreCompileInputs.cache
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.CopyComplete
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.exe
+C:\WPFOverview\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.pdb
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.exe.config
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.exe
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\MVVM_Example.pdb
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\System.Windows.Interactivity.dll
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\bin\Debug\System.Windows.Interactivity.xml
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\View\MainWindow.g.cs
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\App.g.cs
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example_MarkupCompile.cache
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example_MarkupCompile.lref
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\View\MainWindow.baml
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.g.resources
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.cache
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.CoreCompileInputs.cache
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM Example.csproj.CopyComplete
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.exe
+C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\MVVM_Example.pdb

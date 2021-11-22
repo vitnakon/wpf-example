@@ -1,0 +1,14 @@
+Reference
+https://www.c-sharpcorner.com/UploadFile/puranindia/wpf-interview-questions-and-answers/
+https://www.tutorialspoint.com/wpf/wpf_xaml_overview.htm
+
+Question 1: What is WPF?
+Question 2: What is Content Alignment in WPF?
+Question 3: What are Resources in WPF?
+Question 4: What are static and dynamic resources?
+Question 5: What is value convertor in WPF?
+Question 6: What is MVVM?
+Question 7: How can you explain view and view model in MVVM?
+Question 8: What is Command Design Pattern and ICommand in WPF?
+Question 9: What is the Data Binding concept and How Binding works in WPF?
+Question 10: What is Trigger and how many types of triggers in WPF?
