@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\obj\Debug\
+C:\wpf-example\WPF-MVVM-Example-master\MVVM Example\obj\Debug\
 MVVM_Example
 none
 false
 DEBUG;TRACE
-C:\respos\mvvm\MvvmSample2\WPF-MVVM-Example-master\MVVM Example\App.xaml
+C:\wpf-example\WPF-MVVM-Example-master\MVVM Example\App.xaml
 1-1711142684
 
-12-1194800180
-12-983525874
+13-1949369964
+121592305775
 View\MainWindow.xaml;
 
-False
+True
 

@@ -1,5 +1,9 @@
 project example
 https://github.com/vitnakon/wpf-example
+
+for ubuntu need install & setup 
+PowerShell Pro Tools
+
 Reference
 https://www.c-sharpcorner.com/UploadFile/puranindia/wpf-interview-questions-and-answers/
 https://www.tutorialspoint.com/wpf/wpf_xaml_overview.htm
