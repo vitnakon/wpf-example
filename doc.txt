@@ -14,3 +14,7 @@ Question 7: How can you explain view and view model in MVVM?
 Question 8: What is Command Design Pattern and ICommand in WPF?
 Question 9: What is the Data Binding concept and How Binding works in WPF?
 Question 10: What is Trigger and how many types of triggers in WPF?
+
+Basic Component(WPF?)/Control/Binding/Nuget
+Best Practice
+Unit test
